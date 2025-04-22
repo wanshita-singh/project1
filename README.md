@@ -1,2 +1,1 @@
-# project1
-next.js project
+npx create-next-app todo-app
